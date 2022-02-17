@@ -1,0 +1,2 @@
+# MSD ELIZA Project
+Natural language processing in computer programming is a technology that utilizes user input to generate accurate responses, like a form of computer human conversation. Our project expands on previous concepts, to challenge the idea that humans and computers cannot have effective and "life-like" conversations. Working towards developing our project, the team has selected Joseph Weizenbaum’s “Eliza” program. Objectives include expanding the linguistic recognition, providing more precise responses, and provision of external links based on keywords.
